@@ -7,5 +7,6 @@
  */
 
 class g5 {
-    public $i;
+    public $j;
+
 } 
